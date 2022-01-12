@@ -1,7 +1,8 @@
 h1 {
-    color:blue;
+    text-align: center;
+    color:black;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
 }
-ul {
-    list-style: none;
+div{
+    text-align: center;
 }
-
